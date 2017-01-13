@@ -4,6 +4,8 @@ function describe {
     echo "#########################################################"
     echo "Usage: e.g. bash $0 $HOME/Desktop/Exportfolder $HOME/Desktop/debug.log"
     echo " "
+    echo "The folder where the epub files should be exported to has to exist already. Create it before running the script."
+    echo " "
     echo "This script will read the iTunes books from $STARTFOLDER"
     echo "#########################################################"
     echo " "
